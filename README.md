@@ -4,4 +4,5 @@
 (Contact Info)
 (Bio)
 
-## [https://github.com/LocalTechie/TechThtr/blob/main/Lighting%20Portfolio]
+## Lighting Portfolio
+[https://github.com/LocalTechie/TechThtr/blob/main/Lighting%20Portfolio] 
